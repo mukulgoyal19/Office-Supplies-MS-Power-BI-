@@ -20,6 +20,8 @@ The Dataset of a company Sales and target is taken to visualize:
     
 ### Insights
 
+** Depicting visuals using drill down and expand functions.
+
 #### No.of units each day, month, quater and a year
 ![No.of units each day, month, quater and a year](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20year.PNG)
 ![No.of units each day, month, quater and a year](https://github.com/mukulgoyal19/Office-Supplies-MS-Power-BI-/blob/master/insights/units%20per%20quater.PNG)
